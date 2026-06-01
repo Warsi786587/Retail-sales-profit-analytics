@@ -3,9 +3,7 @@
 <img width="1171" height="662" alt="dashboard full png" src="https://github.com/user-attachments/assets/39f88527-271b-457d-a07f-713d1a922f69" />
 
 
-
-**Modern Business Intelligence Dashboard** built with **Power BI**
-
+** Interactive Power BI Dashboard for Retail Sales & Profit Analysis **
 ---
 
 ## 📊 Key Performance Indicators
@@ -41,6 +39,7 @@
 • Leading Category: Technology
 • Most Profitable Sub-Categories: Phones and Copiers
 • Key Finding: Higher discounts were associated with lower profitability
+
 ---
 
 ## 🛠 Tech Stack
@@ -53,11 +52,7 @@
 
 ## 📁 Repository Contents
 
-```bash
-retail-sales-profit-analytics/
-├── README.md
-├── Retail_Sales_Dashboard.pbix
-├── data/
-├── images/
-├── docs/
-└── src/
+ README.md
+- Retail_Sales_Dashboard.pbix
+- Dashboard Screenshot
+- Dataset File 
