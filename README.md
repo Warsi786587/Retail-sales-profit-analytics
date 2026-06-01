@@ -1,6 +1,6 @@
 Retail Sales & Profit Analytics Dashboard
-![Dashboard](<img width="1171" height="662" alt="screenshot of retail dashboard" src="https://github.com/user-attachments/assets/d9bee662-0ded-4b18-b098-83087873a4f5" />
-)
+
+![Dashboard Preview](images/screenshot of retail dashboard.png)
 
 
 **Modern Business Intelligence Dashboard** built with **Power BI**
