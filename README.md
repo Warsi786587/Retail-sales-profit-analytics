@@ -1,6 +1,6 @@
 Retail Sales & Profit Analytics Dashboard
 
-https://github.com/Warsi786587/Retail-sales-profit-analytics/blob/48b6759ac41a595c23bd8a07b6230583fd16964d/screenshot%20of%20retail%20dashboard.png
+
 
 **Modern Business Intelligence Dashboard** built with **Power BI**
 
