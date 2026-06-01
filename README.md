@@ -1,6 +1,6 @@
 Retail Sales & Profit Analytics Dashboard
 
-!"C:\Users\Warsi\Desktop\dashboard.full.png.png"
+
 
 
 **Modern Business Intelligence Dashboard** built with **Power BI**
