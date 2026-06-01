@@ -1,5 +1,5 @@
 Retail Sales & Profit Analytics Dashboard
-
+screenshot of retail dashboard.png
 
 
 **Modern Business Intelligence Dashboard** built with **Power BI**
