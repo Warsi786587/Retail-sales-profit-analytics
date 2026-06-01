@@ -8,6 +8,7 @@
 
 ## 📊 Key Performance Indicators
 
+
 - **Total Sales**: **$2.30 Million**
 - **Total Profit**: **$286.39K**
 - **Profit Margin**: **12.47%**
@@ -30,6 +31,7 @@
 • Binders and Paper generated relatively low profit margins despite sales volume, indicating opportunities for pricing optimization, bundling, or cross-selling strategies.
 
 • The Home Office segment demonstrated untapped growth potential and may benefit from targeted marketing and customer acquisition initiatives.
+
 ---
 
 ## 📍 Regional & Segment Performance
