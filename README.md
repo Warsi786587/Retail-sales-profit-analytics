@@ -1,5 +1,6 @@
 Retail Sales & Profit Analytics Dashboard
 
+<img width="1171" height="662" alt="dashboard full png" src="https://github.com/user-attachments/assets/39f88527-271b-457d-a07f-713d1a922f69" />
 
 
 
