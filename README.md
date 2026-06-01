@@ -46,7 +46,7 @@
 
 ## 🛠 Tech Stack
 
-- **Power BI Desktop**
+- Power BI Desktop
 - DAX Measures & Calculations
 - Data Source: Excel
 
