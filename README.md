@@ -19,22 +19,28 @@
 
 ## 🎯 Key Business Insights
 
-- **Technology** category leads in both Sales and Profit.
-- **Phones** and **Copiers** are the highest profit-generating sub-categories.
-- **Consumer** segment contributes **50.56%** of total sales.
-- **West** region is the top performing region.
-- Strong negative correlation between **Discount** and **Profit**.
-- **Binders** and **Paper** are low-margin products — opportunity for upselling & bundling.
-- **Home Office** segment shows good growth potential.
+• Technology emerged as the best-performing category, generating the highest sales and profit across the business.
 
+• Phones and Copiers were the most profitable sub-categories, making them key contributors to overall profitability.
+
+• The Consumer segment accounted for 50.56% of total sales, indicating that individual consumers represent the primary customer base.
+
+• The West region delivered the strongest sales performance, highlighting its importance as a major revenue-generating market.
+
+• Discount levels showed a negative impact on profitability, suggesting that excessive discounting can reduce overall profit margins.
+
+• Binders and Paper generated relatively low profit margins despite sales volume, indicating opportunities for pricing optimization, bundling, or cross-selling strategies.
+
+• The Home Office segment demonstrated untapped growth potential and may benefit from targeted marketing and customer acquisition initiatives.
 ---
 
 ## 📍 Regional & Segment Performance
 
-- **Best Region**: West
-- **Largest Segment**: Consumer (50.56%)
-- **Top Categories**: Technology > Furniture > Office Supplies
-
+• Best Performing Region: West
+• Largest Customer Segment: Consumer (50.56% of Sales)
+• Leading Category: Technology
+• Most Profitable Sub-Categories: Phones and Copiers
+• Key Finding: Higher discounts were associated with lower profitability
 ---
 
 ## 🛠 Tech Stack
@@ -45,7 +51,7 @@
 
 ---
 
-## 📁 Project Structure
+## 📁 Repository Contents
 
 ```bash
 retail-sales-profit-analytics/
