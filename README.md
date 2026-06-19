@@ -9,78 +9,42 @@ Through data visualization, KPI tracking, and interactive filtering, this dashbo
 <img width="1171" height="662" alt="dashboard full png" src="https://github.com/user-attachments/assets/39f88527-271b-457d-a07f-713d1a922f69" />
 
 
-## 📊 Key Performance Indicators
-
-
-- **Total Sales**: **$2.30 Million**
-- **Total Profit**: **$286.39K**
-- **Profit Margin**: **12.47%**
-- **Total Quantity Sold**: **9,994 units**
-
-  ## Features
-
-- Sales Performance Analysis by Region
-- Profitability Analysis by Sub-Category
-- Discount vs Profit Relationship Analysis
-- Top Selling Sub-Categories Identification
-- Segment-wise Sales Analysis
-- KPI Tracking (Sales, Profit, Quantity, Profit Margin)
-- Interactive Slicers for Dynamic Filtering
-- Business Performance Monitoring through Visual Analytics
-
-
-## 🎯 Key Business Insights
-
-• Technology emerged as the best-performing category, generating the highest sales and profit across the business.
-
-• Phones and Copiers were the most profitable sub-categories, making them key contributors to overall profitability.
-
-• The Consumer segment accounted for 50.56% of total sales, indicating that individual consumers represent the primary customer base.
-
-• The West region delivered the strongest sales performance, highlighting its importance as a major revenue-generating market.
-
-• Discount levels showed a negative impact on profitability, suggesting that excessive discounting can reduce overall profit margins.
-
-• Binders and Paper generated relatively low profit margins despite sales volume, indicating opportunities for pricing optimization, bundling, or cross-selling strategies.
-
-• The Home Office segment demonstrated untapped growth potential and may benefit from targeted marketing and customer acquisition initiatives.
-
----
-
-## 📍 Regional & Segment Performance
-
-• Best Performing Region: West
-• Largest Customer Segment: Consumer (50.56% of Sales)
-• Leading Category: Technology
-• Most Profitable Sub-Categories: Phones and Copiers
-• Key Finding: Higher discounts were associated with lower profitability
-
----
-
-## 🛠 Tech Stack
-
-- Power BI Desktop
-- DAX Measures & Calculations
-- Data Source: Excel
-
-## Skills
-
-- Data Analysis
-- Business Intelligence
-- Data Visualization
-- Dashboard Design
-- KPI Development
-- DAX Calculations
-- Data Modeling
-- Interactive Reporting
-- Business Performance Analysis
-- Data Storytelling
-
----
-
-## 📁 Repository Contents
-
- README.md
-- Retail_Sales_Dashboard.pbix
+**Tools Used**
+- Power BI
+- Excel
+- DAX
+**Key KPIs**
+- Total Sales: $2.30M
+- Total Profit: $286.39K
+- Total Quantity Sold: 9,994
+- Profit Margin: 12.47%
+**Key Insights**
+- Technology emerged as the highest-performing category in terms of both sales and profit.
+- Phones and Copiers were the most profitable sub-categories.
+- Consumer segment contributed 50.56% of total sales, making it the largest customer segment.
+- West region generated the highest sales among all regions.
+- Higher discounts negatively impacted profitability across several product categories.
+- Binders and Paper generated relatively lower profit margins despite good sales volume.
+- Home Office segment showed potential for future growth opportunities.
+**Business Recommendations**
+- Reduce excessive discounting to improve overall profitability.
+- Increase focus on Technology products due to their strong profit contribution.
+- Replicate successful sales strategies from the West region in lower-performing regions.
+- Develop targeted marketing campaigns for the Home Office segment.
+- Review pricing and promotional strategies for low-margin sub-categories.
+**File Included**
+- Power BI Dashboard (.pbix)
+- Dataset (.xlsx)
 - Dashboard Screenshot
-- Dataset File 
+
+**Dataset Preview**
+
+The dataset contains retail transaction information including sales, profit, quantity, discount, customer segment, region, category, and sub-category details.
+
+**Business Problem**
+
+To analyze retail sales performance, identify profit drivers, understand customer purchasing patterns, and discover opportunities to improve business profitability.
+
+**Final Conclusion**
+
+This dashboard provides a comprehensive view of retail business performance by tracking sales, profit, customer segments, and regional trends. The insights generated can help businesses optimize pricing strategies, improve profitability, and make better data-driven decisions.
