@@ -1,10 +1,12 @@
+# Retail Sales & Profit Analytics Dashboard
+
 **Project Overview**
 
 This project presents an interactive Power BI dashboard developed to analyze retail sales performance, profitability, customer segments, regional trends, and discount impact on business outcomes. The dashboard provides a comprehensive view of key business metrics, enabling users to monitor sales growth, identify profitable product categories, evaluate regional performance, and uncover opportunities for improving profitability.
 
 Through data visualization, KPI tracking, and interactive filtering, this dashboard helps transform raw sales data into actionable business insights that support data-driven decision-making.
 
-# Retail Sales & Profit Analytics Dashboard
+**Dashboard Preview**
 
 <img width="1171" height="662" alt="dashboard full png" src="https://github.com/user-attachments/assets/39f88527-271b-457d-a07f-713d1a922f69" />
 
